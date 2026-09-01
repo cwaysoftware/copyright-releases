@@ -1,3 +1,11 @@
+## v0.8.0 — 2026-09-01
+
+Copyright v0.8.0
+
+- fix: satisfy the 1.98 chunks_exact lint in barcode and pdf
+- feat(ui): adopt the Lightbox visual language
+
+
 ## v0.7.3 — 2026-09-01
 
 Copyright v0.7.3
@@ -17,5 +25,3 @@ First release built, signed and published by CI.
 - ci: assert every signing and notarization secret is present up front
 - ci: digit-anchored tag filter, per-tag concurrency, workflow_dispatch
   escape hatch, --locked builds
-
-
