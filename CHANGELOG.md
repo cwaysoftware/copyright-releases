@@ -1,3 +1,13 @@
+## v0.10.0 — 2026-09-16
+
+Copyright v0.10.0
+
+## Changes since v0.9.0
+
+- docs: correct the release notes on the CI path and tag annotations
+- fix(release): keep Markdown headings in the local path's tag annotation
+
+
 ## v0.9.0 — 2026-09-16
 
 Copyright v0.9.0
