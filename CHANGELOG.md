@@ -1,3 +1,15 @@
+## v0.11.0 — 2026-09-22
+
+Copyright v0.11.0
+
+## Changes since v0.10.0
+
+- refactor(release): share the signing environment between the two builders
+- refactor(release): one script, two endings for the release paths
+- feat(fonts): offer every installed face, picked by family like the font panel
+- chore: refresh the layout-wasm lockfile for 0.9.0
+
+
 ## v0.10.0 — 2026-09-16
 
 Copyright v0.10.0
